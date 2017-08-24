@@ -1,0 +1,421 @@
+LIST OF: CAS-AC, CBS-BD, ETKT-AS, X-TRT* PTK  J21 M118 TOTAL 139
+KQ886    30MAY  NBO STD2359              BOARD 2314 GATE 14   GD
+**************   FLIGHT RELATED COMMENTS EXIST   ***************
+  1.ABIDOYE/YETUNDE R MISS F NBO BKK MQ B 019F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061392342938 AS 
+  2.ADENIRAN/ADEKUNLE O MR M NBO CAN ML B 014G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061392367343 AS 
+  3.ADJAPONG/SERWAA AKOTO  C NBO CAN MT B 012B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488569025 AS 
+  4.ADJOVI/BIGNON MR       M NBO CAN JZ B 003C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488281571 AS 
+  5.ADJOVI/MAHUGNONJORDAN  I NBO CAN JZ B  068 CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061237033508    
+  6.AKAZUE/STEPHEN NWIK MR M NBO CAN ML B 016J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061392353629 AS 
+  7.ALEMU/DANIEL MR        M NBO BKK MQ B 020B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488516545 AS 
+  8.ALIMPINISIS/ANGELOS MR M NBO BKK ME B 022J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061381393017 AS 
+  9.ALLIBHAI/SHAFFIQUE MR  M NBO BKK JZ B 003J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7069560399674 AS 
+ 10.ALUVALE/JIMMY SAMEN MR M NBO BKK JT B 002F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488574138 AS 
+ 11.ANDRIANARINA/HERY LALA M NBO BKK MT B 016E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488579278 AS 
+ 12.ANDRIANIRINA RAVELO+/F C NBO BKK MT B 016F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488579280 AS 
+ 13.ANENEMARTIN/CHOSENCHIB M NBO CAN MN B 030J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062489067219 AS 
+ 14.ANSU/DIANA MRS         F NBO CAN MT B 012C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488569026 AS 
+ 15.ASIBWA/REGINALD MR     M NBO BKK MT B 017G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488615945 AS 
+ 16.ASRA OJAIN/ADIL GAM MR M NBO BKK MT B 031D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061336848301 AS 
+ 17.BAIDOO/JOSEPH BENJA MR M NBO CAN MT B 031A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061287934896 AS 
+ 18.BALCHANDANI/AJAY PR MR M NBO CAN JI B 002A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908935565 AS 
+ 19.BARTLETT/MATTHEW       M NBO BKK ME B 034J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488497429 AS 
+ 20.BIAN/BO MR             M NBO CAN MT B 028H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908743423 AS 
+ 21.BISCHLER/ERIK MR       M NBO BKK JZ B 004D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064917736071 AS 
+ 22.BOGYA/PHYLLISYA MS     F NBO CAN MT B 030A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061263754019 AS 
+ 23.BOTHA/CARO             F NBO BKK ME B 021D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061389962087 AS 
+ 24.BUHENDWA CIBASA/LUC MR M NBO CAN MN B 019H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515885 AS 
+ 25.BUNGA/MASIVI REBEC MRS F NBO CAN MN B 028J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488586852 AS 
+ 26.BUNYEGE MURHULA/IRE MR M NBO CAN MN B 020H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515912 AS 
+ 27.BUSULWA/PETER MR       M NBO BKK ME B 031F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               0742407476563 AS 
+ 28.CAI/AILING             F NBO CAN ME B 029A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413062154 AS 
+ 29.CAMARA/BALLA M BAYE MR M NBO BKK MN B 017A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061389947890 AS 
+ 30.CHAKEEYANAN/JIRAYUS MR M NBO BKK ML B 016A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488614796 AS 
+ 31.CHAKHREEYANAN/TRISI MR M NBO BKK ML B 016B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488614795 AS 
+ 32.CHEN/YU                F NBO CAN ME B 029B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413062135 AS 
+ 33.CHUNGUANG/JIA          M NBO CAN MT B 011E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488598556 AS 
+ 34.CUI/WENBO              M NBO CAN MV B 036D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064906961947 AS 
+ 35.DEJENE/MEKDES MISS     F NBO BKK ME B 023B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488516142 AS 
+ 36.DIAWARA/BANDIOUGOU MR  M NBO BKK JZ B 002D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488521627 AS 
+ 37.DIENG/MOUHAMADOUL BASS M NBO CAN JH B 003D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488609356 AS 
+ 38.DIEYE/DOUDOU MR        M NBO CAN JL B 002G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488532971 AS 
+ 39.ELISHA/AMEN MRS        F NBO CAN JZ B 003A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488281572 AS 
+ 40.EMEANA/CAIUS OBIOMA MR M NBO CAN MN B 020C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515398 AS 
+ 41.FUNDJI/LUAMBA ESTH MRS F NBO CAN MR B 036E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488314630 AS 
+ 42.GAO/LIPENG MR          M NBO CAN MN B 018H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064927376354 AS 
+ 43.GARINE WICHATITSKY/MIC M NBO BKK MT B 011A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               0572395401075 AS 
+ 44.GEBREKIDAN/GIRMA MR    M NBO BKK ME B 023A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488516143 AS 
+ 45.GUAN/YUNHUI MR         M NBO CAN ML B 029H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7845625591323 AS 
+ 46.GUO/HUI                F NBO CAN ME B 012G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413177248 AS 
+ 47.GWARADZIMBA/REMEMBRANC M NBO BKK MN B 014A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064939605511 AS 
+ 48.HAKIZIMANA/MANASSEH MR M NBO CAN MN B 030F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061054743138 AS 
+ 49.HAN/CHENGANG           M NBO CAN MR B 023F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908731792 AS 
+ 50.HU/LIJUN               F NBO CAN ME B 028D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413103482 AS 
+ 51.HUGHES/TIMOTHY WALL MR M NBO BKK ME B 032J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488477312 AS 
+ 52.ICHINO/SATOMI MS       F NBO BKK MT B 015F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488407440 AS 
+ 53.KAMARA/MOHAMED MR      M NBO BKK MT B 021F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061336707769 AS 
+ 54.KAMARA/SALAMATU        F NBO CAN MT B 030H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488489456 AS 
+ 55.KARATHE/SARAHWANGUI    F NBO CAN MR B 019G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7069560429637 AS 
+ 56.KAYIBA MASANKA/MIC MRS F NBO CAN MR B 034F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488599291 AS 
+ 57.KHAWURAI/ATICHAT MR    M NBO BKK MR B 033G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488614820 AS 
+ 58.LEE/JOONMO MR          M NBO BKK MH B 023J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               1801379957096 AS 
+ 59.LI/PING                F NBO CAN ME B 028E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413103483 AS 
+ 60.LI/SHUISEN MR          M NBO CAN MT B 020F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064909085420 AS 
+ 61.LI/ZHANGCHAO MR        M NBO CAN ME B 028C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064907851274 AS 
+ 62.LIU/LU MS              F NBO CAN MT B 028G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908743424 AS 
+ 63.LIU/YIXUN MR           M NBO CAN JI B 005J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064909266145 AS 
+ 64.LO/NIMFA MS            F NBO BKK MT B 021J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061095075199 AS 
+ 65.LONGWANI/JUDY          F NBO CAN ME B 027H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061169773663 AS 
+ 66.LOSSALA/VEFAY MR       M NBO BKK JZ B 002J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488545039 AS 
+ 67.LOTIKA/BUSHIRI DAUD MR M NBO CAN MR B 022G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488581619 AS 
+ 68.MADHIHAR/SAID          M NBO CAN MT B 019B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               0572397580331 AS 
+ 69.MAKIESE TINA/LA JO MRS F NBO CAN MX B 020J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               0572398799370 AS 
+ 70.MATAKA/WASANGA BEA MRS F NBO CAN MR B 015A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515617 AS 
+ 71.MBACKE/THIERNO MR      M NBO CAN MH B 026J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488609371 AS 
+ 72.MENSAH/JOYCE OTI MRS   F NBO CAN MT B 018B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488568901 AS 
+ 73.MGBENKA/SIMEON AZUK MR M NBO CAN MT B 014F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061219240715 AS 
+ 74.MICHEL/AHMED ABDALLAH  M NBO CAN MT B 019A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               0572397580311 AS 
+ 75.MILENDA/NGOYI POLI MR  M NBO CAN MR B 021G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515618 AS 
+ 76.MITHA/ZAHID MR         M NBO CAN ME B 029F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7845621493712 AS 
+ 77.MUHAMMAD/KAIMUDDIN MR  M NBO CAN ML B 034E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7841215037862 AS 
+ 78.MUHORAKEYE/IMMACUL MRS F NBO CAN MN B 011J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488530391 AS 
+ 79.MUNYEMPANZI/FLORINE MR M NBO CAN MN B 018J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488530417 AS 
+ 80.MUSIWA AMULI/TRESOR MR M NBO CAN MN B 019J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515886 AS 
+ 81.MUSOWOYA/SALOME        F NBO CAN MN B 027J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061169775350 AS 
+ 82.MUTINDA/BRIAN MWALU MR M NBO BKK MN B 015D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064933752654 AS 
+ 83.NABE/SARAH MS          F NBO BKK ML B 017F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061394750233 AS 
+ 84.NELSON/IGHAROFESTUS MR M NBO CAN MR B 015J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061196960767 AS 
+ 85.NGANGA/PENINAHWARINGA  F NBO CAN MR B 028F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7069560429636 AS 
+ 86.NGOMA/MAKAYA NATHA MRS F NBO CAN MV B 018D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062487843114 AS 
+ 87.NGUGI/PAUL MBUGUA MR   M NBO CAN MN B 028A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488541502 AS 
+ 88.NSAMBA KAZADI/BEAT MRS F NBO CAN MR B 030D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515639 AS 
+ 89.NTIGURIRWA/SIMEON MR   M NBO CAN MN B 018F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488530420 AS 
+ 90.OBEDCOLE/ORAIONIKEV    F NBO CAN MH B 029J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488605296 AS 
+ 91.ODURO/CECILIA MRS      F NBO CAN MT B 012A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488569027 AS 
+ 92.ONYINA MENSAH/MOLL MRS F NBO CAN MT B 018A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488569130 AS 
+ 93.OSI/EZEKIEL OKORIE MR  M NBO CAN MT B 014J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061219223670 AS 
+ 94.PARK/EUNBEEN MS        F NBO BKK MU B 017C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061379327705 AS 
+ 95.PHAM/THIHUYENTRANG MS  F NBO BKK ME B 019D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061265566090 AS 
+ 96.QIAN/JIANHUA MR        M NBO CAN JI B 002C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908935566 AS 
+ 97.QIU/JIN                F NBO CAN ME B 027A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844492309357 AS 
+ 98.RAKOTOARISON/LANDY HAR F NBO BKK MT B 016D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488579279 AS 
+ 99.RANAIVOSON/TAHIRINI MR M NBO CAN MY B 026A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908707805 AS 
+100.RAZAFIMANANTSOA/HERITI M NBO CAN JJ B 005G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908707809 AS 
+101.ROENNLUND/RICKARD MR   M NBO BKK MB B 011C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061390006100 AS 
+102.SAMUEL/CHIKA I         M NBO CAN MT B 014D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061219240716 AS 
+103.SANGWA/ERIC MR         M NBO CAN ME B 030G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7845620084410 AS 
+104.SANKOH/HASSAN MR       M NBO BKK MT B 022A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061336707759 AS 
+105.SHAO/QING QING MS      F NBO CAN MT B 014H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908406640 AS 
+106.SIW/ESTHER MRS         F NBO CAN MT B 015C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488569085 AS 
+107.SORNPAISARN/MONTREE MR M NBO BKK JZ B 001A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488246780 AS 
+108.SORNPAISARN/PIYABHU MR M NBO BKK JZ B 001C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488246782 AS 
+109.SORNPAISARN/PIYACHA MR M NBO BKK JZ B 001D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488246784 AS 
+110.SORNPAISARN/PIYAP MISS F NBO BKK JZ B 001F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488246786 AS 
+111.SORNPAISARN/RUNGRU MRS F NBO BKK JZ B 001G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488246788 AS 
+112.SRISANONG/VICHITVAN MS F NBO BKK MR B 031G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488614819 AS 
+113.SRIWONGCHAI/PHATCHA MS F NBO BKK ME B 034A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488455860 AS 
+114.TADDESSE/TIZETA MISS   F NBO BKK MQ B 020A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488516546 AS 
+115.TAIBALY/MOURTAZA MR    M NBO CAN MN B 033A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488562171 AS 
+116.TANG/ZHUYAN            F NBO CAN ME B 012F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413062136 AS 
+117.TANUI/RICHARD KIBIW MR M NBO CAN MT B 017D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488613976 AS 
+118.TIPU/KIASUKA FISTON    M NBO CAN MT B 032F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064906894163 AS 
+119.TOTEKO/NDJIKA SISK MRS F NBO CAN MR B 030E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515641 AS 
+120.TSHIBOLA/KABAMBA A MRS F NBO CAN MV B 018E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062487843106 AS 
+121.TSHISUAKA KABONGOLO/JE M NBO CAN MR B 023G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488515682 AS 
+122.WANG/FUCHANG MR        M NBO CAN MT B 031C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064909085384 AS 
+123.WANG/QIAN              F NBO CAN ME B 012H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064906847854 AS 
+124.WANG/SHENHONG MS       F NBO CAN JI B 001J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061300788251 AS 
+125.WANG/YAE MS            F NBO CAN ME B 029D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844492315840 AS 
+126.WANG/YUCHUN MR         M NBO CAN JI B 003F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064908392999 AS 
+127.WILLIAMS/SUSAN         F NBO CAN MT B 029G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7064922920029 AS 
+128.WU/LINGLING            F NBO CAN ME B 012J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413071361 AS 
+129.XU/SI QIAN MS          F NBO CAN ME B 021A CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7841384195396 AS 
+130.YAMASHITA/KAZUHIKO MR  M NBO BKK ML B 025J CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061351348924 AS 
+131.YAN/YINGCHUN           F NBO CAN ME B 012D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413062137 AS 
+132.YANG/KE LUN MR         M NBO CAN ME B 011F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7845625609657 AS 
+133.YANG/XIAOCHENG MR      M NBO CAN MR B 020G CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7062488575841 AS 
+134.YE/ZHIJIAN MR          M NBO CAN ME B 015H CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7842107268965 AS 
+135.YUAN/ZHUANDI           F NBO CAN ME B 012E CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844413062138 AS 
+136.ZAKE/FRED MR           M NBO BKK MT B 036F CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7061240904936 AS 
+137.ZHANG/BIYUE MS         F NBO CAN ME B 014C CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7844905886453 AS 
+138.ZHANG/LONG MR          M NBO CAN ME B 021B CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7841384195397 AS 
+139.ZHONG/YIZHU            M NBO BKK MN B 020D CBS-BD           
+                                               A/NBO/T/1A/GTE/14
+                                               7065609047894 AS 
+
